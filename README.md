@@ -1,3 +1,3 @@
 This is New Project..
 <br>
-Author - Karan Chuahan.
+Author - Chauhan Karan.
